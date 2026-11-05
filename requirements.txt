@@ -1,3 +1,6 @@
+
+--index-url https://pypi.org/simple
+
 tensorflow==2.15.0
 tensorboard
 matplotlib
